@@ -19,3 +19,8 @@ dot-net run
 ```
 
 
+
+## Sample
+
+![image](https://github.com/Cole-Z/GUI-Fraction-Calculator/assets/98670265/ba9fc459-96d2-489c-b339-0e812227c39b)
+

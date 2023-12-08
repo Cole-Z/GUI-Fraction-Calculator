@@ -11,11 +11,11 @@ https://github.com/Cole-Z/GUI-Fraction-Calculator.git
 open a new folder and run:
 
 ```bash
-dot-net build
+dotnet build
 ```
 
 ```bash
-dot-net run
+dotnet run
 ```
 
 
